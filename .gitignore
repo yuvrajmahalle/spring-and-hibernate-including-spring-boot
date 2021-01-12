@@ -22,8 +22,8 @@ classes/
 buildSrc/build
 /spring-*/build
 /spring-*/lib
-/servers
-.metadata
+/servers/*
+/.metadata/*
 /lib/*
 target/
 
